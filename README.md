@@ -1,3 +1,7 @@
 # Programa sumário de pedidos
-Programa desenvolvido durante o curso de Java POO do Prof Nélio Alves. 
-Os conceitos aplicados foram os de composição de objetos com tipos enumerados, além de aplicação de classes com métodos construtores e encapsulamento.
+Programa desenvolvido durante o curso de Java POO do Prof Nélio Alves.</br>
+</br>
+Os conceitos aplicados foram:</br>
+• Composição de objetos com tipos enumerados</br>
+• Aplicação de classes com métodos construtores</br>
+• Encapsulamento
